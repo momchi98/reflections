@@ -59,4 +59,7 @@ Q:
     merges manually?
 
 A:
+    Automatic merging makes it easier when the branches are simple and have no
+    merge conflicts, while doing it manually gives you the ability to resolve
+    the conflicts when necessary.
 ________________________________________________________________________________
