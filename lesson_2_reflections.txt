@@ -25,6 +25,8 @@ Q:
     logical change?
 
 A:
+    By using the staging area you can see what tings are prepared to be
+    commited, so you can easily control what is commited in the end.
 ________________________________________________________________________________
 Q: 
     What are some situations when branches would be helpful in keeping your
