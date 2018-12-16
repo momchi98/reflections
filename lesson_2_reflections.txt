@@ -49,6 +49,10 @@ Q:
     in the diagram the way we do?
 
 A:
+    The result of merging two branches is a branch that consists of all the
+    necessary files and features of its parent branches. We represent it the way
+    we do because in the timeline it is a new branch that inherits the ones that
+    were merged into creating it.
 ________________________________________________________________________________
 Q: 
     What are the pros and cons of Git's automatic merging vs. always doing
