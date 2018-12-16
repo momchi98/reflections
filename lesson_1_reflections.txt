@@ -1,0 +1,52 @@
+UDACITY
+"How to Use Git and GitHub"
+
+LESSON 1 REFLECTIONS
+________________________________________________________________________________
+Q: How did viewing a diff between two versions of a file help you see the bug
+   that was introduced?
+
+A: It made it a lot easier, because it showed every change and there was no need
+   the whole document to be looked at.
+________________________________________________________________________________
+Q: How could having easy access to the entire history of a file make you a more
+   efficient programmer in the long term?
+
+A: By having the access to all the versions I am able to see the changes made 
+   (and sometimes even the reasons behind those changes). This information can
+   guide me in taking some important decisions and also help me when I am 
+   searching for and fixing a bug.
+________________________________________________________________________________
+Q: What do you think are the pros and cons of manually choosing when to create a
+   commit, like you do in Git, vs having versions automatically saved, like
+   Google Docs does?
+
+A: Manually choosing when to commit makes commits(version saves) more meaningful,
+while autosaving makes things a bit easier.
+________________________________________________________________________________
+Q: Why do you think some version control systems, like Git, allow saving
+   multiple files in one commit, while others, like Google Docs, treat each file
+   separately?
+
+A: Because in some cases it way usefull to save multiple files in one commit
+(like when the files have some connection with each other), while sometimes it is
+better(if the files are not connected) to treat each file separately.
+________________________________________________________________________________
+Q: How can you use the commands git log and git diff to view the history of
+   files?
+
+A: git log shows all the commits and git diff compares 2 commits and shows the
+lines added and deleted so I can see the changes made
+________________________________________________________________________________
+Q: How might using version control make you more confident to make changes that
+   could break something?
+
+A: By having the ability to go back to previous commits, my confidence to make
+more changes and take risk rises. I can also check the diffrence between commits
+to find bugs.
+________________________________________________________________________________
+Q: Now that you have your workspace set up, what do you want to try using Git
+   for?
+
+A: I want to make my own repos and commit in them and merge and etc.
+________________________________________________________________________________
