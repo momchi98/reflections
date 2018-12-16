@@ -33,6 +33,9 @@ Q:
     history organized? How would branches help?
 
 A:
+    Branches are helpful when you want to try what a new, different version will
+    look like, giveing it "tag" so that you can easily go back to it whenever
+    you want.
 ________________________________________________________________________________
 Q: 
     How do the diagrams help you visualize the branch structure?
