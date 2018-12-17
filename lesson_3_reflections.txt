@@ -13,7 +13,16 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Branches in Git are simply a lightweight movable pointers to one of the
+    commits. The default branch name in Git is master. As you initially make
+    commits, you’re given a master branch that points to the last commit you
+    made. Every time you commit, it moves forward automatically.
+
+    Clones are copies of an existing repository (local or remote) into a new
+    directory.
+
+    Forks are a copies of a repository. Forking a repository allows you to
+    freely experiment with changes without affecting the original project.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
