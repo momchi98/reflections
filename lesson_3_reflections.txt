@@ -33,7 +33,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaboration without Git would be realy hard for a programmer like me.
+    While GitHub could be replaced with BitBucket or another source code hosting
+    service, Git can hardly be replaced with other VCS. I can't say what would be
+    easier, and what would be harder with other source code hosting service and
+    VCS because I never used any others, but completely without them would be realy
+    hard, slow and prone to many, many errors.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
