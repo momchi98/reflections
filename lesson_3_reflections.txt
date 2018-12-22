@@ -43,4 +43,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You want to make changes in a different branch so that the master branch always
+    stays in a working state. By using a different branch, you can push your changes
+    to GitHub for review by other people, without directly messing up the master
+    branch. For small changes it is a lot quicker to make them directly in the master
+    branch, but this comes with a risk.
